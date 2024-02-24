@@ -1,0 +1,10 @@
+DTW
+.vscode
+MoveNet/__pycache__
+MoveNet/ConnectMysql.py
+MoveNet/CSVForDB.py
+MoveNet/HowToUseJson.py
+MoveNet/save_tensor.py
+MoveNet/.ipynb_checkpoints
+MoveNet/.vscode
+MoveNet/config.ini
